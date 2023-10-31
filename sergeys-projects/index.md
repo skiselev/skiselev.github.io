@@ -31,7 +31,7 @@ This page contains documentation for my hobby electronics projects.
 * Micro ATX ISA Backplane (October 2012)
   * [Micro ATX ISA Backplane page on RetroBrew Computers Wiki](https://www.retrobrewcomputers.org/doku.php?id=boards:isa:isa-backplane:start)
 * [Xi 8088 Processor Board](https://github.com/skiselev/xi_8088) - An improved version of the Sergey's XT Processor Board (September 2012)
-* ISA OPL2 Card (September 2012)
+* [ISA OPL2 Card](https://github.com/skiselev/isa-opl2) (September 2012)
 * Zeta SBC - Zilog Z80 Based Single Board Computer (August 2011)
   * [Zeta SBC page on RetroBrew Computers Wiki](https://www.retrobrewcomputers.org/doku.php?id=boards:sbc:zeta:start)
 * Sergey's XT - Intel 8088 / NEC V20 Based IBM XT/AT Compatible Processor Board (December 2010)
