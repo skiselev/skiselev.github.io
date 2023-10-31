@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: www.malinov.com
 description: Malinov Family Web Presence
-show_downloads: true
+show_downloads: false
