@@ -1,6 +1,6 @@
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: www.malinov.com
+title: malinov.com
 description: Malinov Family Web Presence
 show_downloads: false
