@@ -20,7 +20,7 @@ This page contains documentation for my hobby electronics projects.
 * 74xx ICs Based Digital Clock (July 2015)
 * Audio Block for Intel Edison (June 2015)
 * USB to Serial Adapter (March 2015)
-* Zeta SBC V2 - An improved version of Zeta SBC (March 2015)
+* [Zeta SBC V2](https://github.com/skiselev/zeta_sbc) - An improved version of Zeta SBC (March 2015)
   * [Zeta SBC V2 page on RetroBrew Computers Wiki](https://www.retrobrewcomputers.org/doku.php?id=boards:sbc:zetav2:start)
 * Intel Wildcard 88 Motherboard (November 2014)
 * Compact USB Audio Adapter (November 2013)
