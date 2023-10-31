@@ -25,7 +25,7 @@ This page contains documentation for my hobby electronics projects.
 * Intel Wildcard 88 Motherboard (November 2014)
 * Compact USB Audio Adapter (November 2013)
 * ISA Super VGA - Trident TVGA9000i based Super VGA board (March 2013)
-* XT-CF-Lite - 8-bit ISA interface for Compact Flash cards (February 2013)
+* [XT-CF-Lite](https://github.com/skiselev/xt-cf-lite-v4) - 8-bit ISA interface for Compact Flash cards (February 2013)
 * ParPortProp - Parallax Propeller Based console and SD-card storage board for Zeta SBC (December 2012) [RetroBrew Computers Wiki](https://www.retrobrewcomputers.org/doku.php?id=boards:other:parportprop:start)
 * ISA Floppy Disk and Serial Controller (November 2012)
 * Micro ATX ISA Backplane (October 2012)
