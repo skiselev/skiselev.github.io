@@ -27,7 +27,7 @@ This page contains documentation for my hobby electronics projects.
 * [ISA Super VGA](https://github.com/skiselev/isa-super-vga) - Trident TVGA9000i based Super VGA board (March 2013)
 * [XT-CF-Lite](https://github.com/skiselev/xt-cf-lite-v4) - 8-bit ISA interface for Compact Flash cards (February 2013)
 * ParPortProp - Parallax Propeller Based console and SD-card storage board for Zeta SBC (December 2012) [RetroBrew Computers Wiki](https://www.retrobrewcomputers.org/doku.php?id=boards:other:parportprop:start)
-* ISA Floppy Disk and Serial Controller (November 2012)
+* [ISA Floppy Disk and Serial Controller](https://github.com/skiselev/isa-fdc) (November 2012)
 * Micro ATX ISA Backplane (October 2012)
   * [Micro ATX ISA Backplane page on RetroBrew Computers Wiki](https://www.retrobrewcomputers.org/doku.php?id=boards:isa:isa-backplane:start)
 * [Xi 8088 Processor Board](https://github.com/skiselev/xi_8088) - An improved version of the Sergey's XT Processor Board (September 2012)
