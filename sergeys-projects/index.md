@@ -7,6 +7,7 @@ This page contains documentation for my hobby electronics projects.
 * [8088 BIOS](https://github.com/skiselev/8088_bios) - Open-source BIOS for Intel 8088 based systems (December 2010 - now)
 * [Multi-Floppy BIOS extension](https://github.com/skiselev/floppy_bios) - Open-source BIOS extension that supports up to two floppy disk controllers with 4 floppy drives each (November 2012 - now)
 * [xiflash](https://github.com/skiselev/xiflash) - Flash ROM Utility for [Xi 8088](https://github.com/skiselev/xi_8088) and [Micro 8088](https://github.com/skiselev/micro_8088) systems
+* [lp486pkt](https://github.com/skiselev/lp486pkt) - Packet Driver for Intel Professional Workstation's On-board Ethernet Controller - Intel i82596
 * gsame (October 1999)
 * gmixer (February 1999)
 
