@@ -1,5 +1,7 @@
 # Sergey's Blog
 
+* [Designing Homebrew Retro Computers: General Notes](homebrew-notes.md) - January 25, 2024
+
 This currently contains older posts I made in 2013-2016
 
 * Building ZX Spectrum Clone - Harlequin - Part 2 - Mar 02, 2016 5:26:40 PM
