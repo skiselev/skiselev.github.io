@@ -166,6 +166,7 @@ The cost of this frequently exceeds the cost of the connectors, with worse relia
 ## Todo
 * Add links for the busses and other specifications.
 * Expand the Bus Implementation Recommendation section.
+* Document memory implementation - SRAM vs. DRAM, Flash ROM vs. UV EPROM
 
 ## Trademarks
 * "RC2014" is a registered trademark of RFC2795 Ltd.
