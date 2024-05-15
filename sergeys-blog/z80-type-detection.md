@@ -39,7 +39,7 @@ Two KR1858VM1 CPUs, dated 9305 and 9306 do not pass the test above, and work mor
 The behavior of the undocumented instruction with the op code **0EDh, 71h** is different between most NMOS and CMOS Z80 processors.
 * On NMOS CPUs, **0EDh, 71h** outputs 0 to the I/O port (C), performing OUT (C),0 instruction
 * On most CMOS CPUs, **0EDh, 71h** outputs 0FFh to the I/O port (C), performing OUT (C),0FFh instruction
-* Exception: Sharp LH5080A - the CMOS Z80 implementation, performs OUT (C),0, just like NMOS CPUs
+* Exception: CMOS Sharp LH5080A performs OUT (C),0, just like NMOS CPUs
 
 Sample test code
 ```
