@@ -7,6 +7,7 @@
 ## MME U880 / Thesys Z80 CPUs Test
 
 MME U880 is an East German Z80 clone, which later after reunification of Germany was briefly produced and sold as Thesys Z80.
+U880 was also available as an export version - MME 80A-CPU, with 2.54" lead pitch. Also, Romanian Microelectronica Bucharest [MMN 80CPU](https://en.wikipedia.org/wiki/MMN80CPU), and supposedly some of post-Soviet T34VM1 and K1518VM1 were using MME manufactured CPU dies. (I have two KR1858VM1 CPUs, dated 9305 and 9306, and they do not test as U880)
 MME U880 is highly compatible with the Zilog Z80 NMOS CPUs. There is a known difference in the CF flags behavior with OUTI instruction.
 
 The OUTI instruction reads a byte from (HL) and writes it to the (C) port. HL is then incremented, and B is decremented.
