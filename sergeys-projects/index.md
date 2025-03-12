@@ -68,7 +68,7 @@ This page contains documentation for my hobby electronics projects.
 * HTPC (August 2008)
 * Analog Data Logger (February 2008)
 * LCD Clock (September 2006)
-* SPI Flash Programmer (August 2006)
+* [SPI Flash Programmer](SPI_Flash_Programmer/) (August 2006)
 * [Binary Clock](Binary_Clock/) (December 2004)
 
 ## Legal Notes
