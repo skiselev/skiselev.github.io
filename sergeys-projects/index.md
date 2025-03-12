@@ -30,7 +30,7 @@ This page contains documentation for my hobby electronics projects.
 * [Xi 8088 Processor Board](https://github.com/skiselev/xi_8088) - An improved version of the Sergey's XT Processor Board (September 2012)
 * [ISA OPL2 Card](https://github.com/skiselev/isa-opl2) (September 2012)
 * Sergey's XT - Intel 8088 / NEC V20 Based IBM XT/AT Compatible Processor Board (December 2010)
-* ISA POST Card (February 2003)
+* [ISA POST Card](ISA_POST/) (February 2003)
 * [Flash-based Dial-up Router](Dialup_Router/) (March 2002)
 
 ## Zilog Z80, RC2014*, RCBus
