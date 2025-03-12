@@ -29,8 +29,11 @@ I also write a set of simple (shell-based) CGI scripts, to control and configure
 
 ## Photos
 
-![Flash ROM and serial card](flash_rs232_card.jpg Flash ROM and serial card)
+### Flash ROM and serial card
+![Flash ROM and serial card](flash_rs232_card.jpg)
 
-![WH386SX motherboard](WH386SX_motherboard.jpg WH386SX motherboard)
+### WH386SX motherboard
+![WH386SX motherboard](WH386SX_motherboard.jpg)
 
-![Complete and working router in the rack](router_in_rack.jpg Complete and working router in the rack)
+### Complete and working router in the rack
+![Complete and working router in the rack](router_in_rack.jpg)
