@@ -9,7 +9,7 @@ This page contains documentation for my hobby electronics projects.
 * [xiflash](https://github.com/skiselev/xiflash) - Flash ROM Utility for [Xi 8088](https://github.com/skiselev/xi_8088) and [Micro 8088](https://github.com/skiselev/micro_8088) systems
 * [lp486pkt](https://github.com/skiselev/lp486pkt) - Packet Driver for Intel Professional Workstation's On-board Ethernet Controller - Intel i82596
 * [gsame](gsame/) (October 1999)
-* gmixer (February 1999)
+* [gmixer[(gmixer/) (February 1999)
 
 ## Hardware Projects
 
