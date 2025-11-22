@@ -21,7 +21,7 @@ This page contains documentation for my hobby electronics projects.
 * [ISA 8-Bit Ethernet Controller](ISA 8-Bit Ethernet Controller) - (December 2021)
 * [ISA 8-Bit Backplane](https://github.com/skiselev/isa8_backplane) - Compact ISA 8-bit Backplane board (December 2017)
 * [Micro 8088 Processor Board](https://github.com/skiselev/micro_8088) - Small IBM XT compatible processor board based on Faraday FE2010A chipset (November 2017)
-* Intel Wildcard 88 Motherboard (November 2014)
+* [Intel Wildcard 88 Motherboard](https://github.com/skiselev/intel-wildcard-88-motherboard) (November 2014)
 * [ISA Super VGA](https://github.com/skiselev/isa-super-vga) - Trident TVGA9000i based Super VGA board (March 2013)
 * [XT-CF-Lite](https://github.com/skiselev/xt-cf-lite-v4) - 8-bit ISA interface for Compact Flash cards (February 2013)
 * [ISA Floppy Disk and Serial Controller](https://github.com/skiselev/isa-fdc) (November 2012)
