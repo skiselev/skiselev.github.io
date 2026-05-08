@@ -6,6 +6,7 @@ This page contains documentation for my hobby electronics projects.
 
 * [8088 BIOS](https://github.com/skiselev/8088_bios) - Open-source BIOS for Intel 8088 based systems (December 2010 - now)
 * [Multi-Floppy BIOS extension](https://github.com/skiselev/floppy_bios) - Open-source BIOS extension that supports up to two floppy disk controllers with 4 floppy drives each (November 2012 - now)
+* [z80-tests](https://github.com/skiselev/z80-tests) - z80type utility for detecting Z80 CPU type and manufacturer
 * [xiflash](https://github.com/skiselev/xiflash) - Flash ROM Utility for [Xi 8088](https://github.com/skiselev/xi_8088) and [Micro 8088](https://github.com/skiselev/micro_8088) systems
 * [lp486pkt](https://github.com/skiselev/lp486pkt) - Packet Driver for Intel Professional Workstation's On-board Ethernet Controller - Intel i82596
 * [gsame](gsame/) (October 1999)
@@ -15,6 +16,9 @@ This page contains documentation for my hobby electronics projects.
 
 ### ISA / DIY IBM PC/XT compatible systems and controllers
 
+* [Alsea River 386SX Motherboard](https://github.com/skiselev/mb386sx-rc2016) - 386SX Motherboard with socketted CPU, Flash ROM, ATX power connector, and ATX-compatible mount holes (February 2026)
+* [PS/2 to XT Keyboard Adapter](https://github.com/skiselev/ps2-xt) - A remake of AT to XT keyboard adapter with 3D printable case (December 2025)
+* [387SX FPU Benchmarks](387SX/Benchmarks-FPU-387SX.md) - Benchmarks results for 7 different 387SX and compatible FPUs (March 2025)
 * [Micro 8088 Case](https://github.com/skiselev/micro_8088_case) - 3D Printed Case for [Micro 8088](https://github.com/skiselev/micro_8088) and [ISA 8-Bit Backplane](https://github.com/skiselev/isa8_backplane) based systems (November 2023)
 * [Compaq Portable III Battery Module](https://github.com/skiselev/compaq-portable-iii-battery) - Battery module replacement for the Compaq Portable III using a CR2477N coin cell battery (May 2022)
 * [Monster FDC](https://github.com/skiselev/monster-fdc) - Floppy Disk controller ISA card that supports up to 8 floppy drives (December 2021)
@@ -35,9 +39,10 @@ This page contains documentation for my hobby electronics projects.
 
 ## Zilog Z80, RC2014*, RCBus
 
+* [Z80-CPM](https://github.com/skiselev/Z80-CPM) - Simplified Z80 CPU and 512KB Flash ROM / 512KB SRAM paged memory module, compatible with RCBus and RC2014* (March 2025)
 * [Flock V2](https://github.com/skiselev/flock-v2) - Floppy Disk Controller and Real Time Clock for RCBus compatible systems (October 2022)
 * [Flock](https://github.com/skiselev/flock) - Floppy Disk Controller and Real Time Clock for RC2014* and RCBus compatible systems (May 2022)
-* [Z80-512K](https://github.com/skiselev/Z80-512K) - Z80 CPU and 512KB Flash ROM / 512KB SRAM paged memory module, compatible with RC2014 (January 2021)
+* [Z80-512K](https://github.com/skiselev/Z80-512K) - Z80 CPU and 512KB Flash ROM / 512KB SRAM paged memory module, compatible with RCBus and RC2014 (January 2021)
 * [Tiny Z80](https://github.com/skiselev/tiny_z80) - Business Card Sized, RC2014 compatible Zilog Z80 Single Board Computer (July 2020)
 * [Omega Home Computer](https://github.com/skiselev/omega) - An open-source MSX2 compatible computer (January 2020)
 * [Easy Z80](https://github.com/skiselev/easy_z80) - An easy to build Zilog Z80 based single board computer (February 2019)
@@ -49,9 +54,9 @@ This page contains documentation for my hobby electronics projects.
 
 ## Intel 8080 and Intel 8085
 
-* [MiniMax8088 - APU and Extension board](https://github.com/skiselev/minimax8085-apu-ext) - AMD Am9511A / Intel 8231A APU, Intel 8255 PPI, Intel 8254 PIT, and switchable 32 KiB SRAM for MiniMax8085 (December 2021)
+* [MiniMax8085 - APU and Extension board](https://github.com/skiselev/minimax8085-apu-ext) - AMD Am9511A / Intel 8231A APU, Intel 8255 PPI, Intel 8254 PIT, and switchable 32 KiB SRAM for MiniMax8085 (December 2021)
 * [Radio 86RK](https://github.com/skiselev/radio-86rk) - Re-make of the Intel 8080 based, Soviet Ham Radio computer published in Radio Magazine in 1986 (March 2020)
-* [MiniMax8088 - Keypad and VFD board](https://github.com/skiselev/minimax8085-keypad-vfd) - 20 keys keypad and VFD interface for MiniMax8085 (December 2018)
+* [MiniMax8085 - Keypad and VFD board](https://github.com/skiselev/minimax8085-keypad-vfd) - 20 keys keypad and VFD interface for MiniMax8085 (December 2018)
 * [MiniMax8085](https://github.com/skiselev/minimax8085) - Minimal 8085 Single Board Computer (March 2017)
 
 ## Microcontrollers, newer Intel hardware, and others
