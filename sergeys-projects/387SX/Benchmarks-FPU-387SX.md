@@ -39,11 +39,8 @@
 * Cyrix - FasMath
   * Part number: CX-83S87-20-KP
   * Date/Lot: A30033
-
-### Not Tested Yet
-
-
-
+ 
+![387SX FPUs Top View](images/387SXes-Top.jpg)
 
 ## Benchmark Results 
 
@@ -56,3 +53,13 @@ IIT XC87SLC-33      | 1703.9                    | 0.225             | 2.8       
 Chips Super Math P38700SX A 33 | 1828.6         | 0.232             | 3.1              | 337.428, 338.677, 338.885 | None                              |
 Cyrix Reveal 387SX  | 1834.9                    | 0.229             | 3.0              | 334.144, 334.959, 334.348 | None                              |
 Cyrix FasMath CX-83S87-30-KP | 1880.1           | 0.232             |                  |                           |                                   |
+
+## More Images
+
+![DOS - COMPTEST](images/DOS-Comptest.jpg)
+
+![DOS - IEEE754 Test Vector](images/DOS-IEEE754_Test_Vector.jpg)
+
+![Linux - Linkpack and Whetstone](images/Linux-Linpack-Whetstone.jpg)
+
+![387SX FPUs Bottom View](images/387SXes-Bottom.jpg)
